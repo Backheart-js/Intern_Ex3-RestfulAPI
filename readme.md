@@ -1,5 +1,5 @@
 ### Dog image Slideshow
-**API được sử dụng:** 
+API được sử dụng:
 * https://dog.ceo/api/breeds/list/all
 * https://dog.ceo/api/breed/{breed}/images
 ***
